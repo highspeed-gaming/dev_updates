@@ -17,4 +17,4 @@
 
 #### Discord Bot
 - [ ] Save sticky data to a JSON file to retain data between restarts.
-- [ ] Authorization level setting: Use `/extensive-data.json` endpoint to get the target player's auth level, compare that with auth of target using `hsgRoleMap`, ensure auth of self is higher than target before proceeding.
+- [ ] Authorization level setting: Use `/extensive-data.json` endpoint to get the target player's auth level, compare that with auth of target using `hsgRoleMap`, ensure sender is not targeting themself within game (unless DR+ in Discord) & auth of self is higher than target before proceeding.
