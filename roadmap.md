@@ -11,6 +11,9 @@
 - [ ] Add more proofing to (a)filming mode.
 - [x] Fix some `s_mysql.lua` error.
 - [x] Merge `feat/better-globals` branch and ensure no regressions are introduced.
+- [ ] Consolidate code and create functions to make it easier to use with Discord->in-game functionality.
+- [ ] Maybe some hackery with HTTP handler to try get `source` for admin performing request, we can use `identifiers` and match with `discord:` - I have already created a function for this IIRC.
+- [ ] Refactor vehicle registration entirely.
 
 #### User Interface
 - [x] Introduce new UI on production.
