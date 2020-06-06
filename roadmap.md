@@ -14,6 +14,11 @@
 - [ ] Consolidate code and create functions to make it easier to use with Discord->in-game functionality.
 - [ ] Maybe some hackery with HTTP handler to try get `source` for admin performing request, we can use `identifiers` and match with `discord:` - I have already created a function for this IIRC.
 - [ ] Refactor vehicle registration entirely.
+- [ ] Create new jobs for people to do on their own.
+  - [ ] Bus driver.
+  - [ ] Creating fares around the map for taxi drivers.
+  - [ ] Trash collection.
+  - [ ] Delivery job - PostOp.
 
 #### User Interface
 - [x] Introduce new UI on production.
