@@ -19,6 +19,7 @@
   - [ ] Creating fares around the map for taxi drivers.
   - [ ] Trash collection.
   - [ ] Delivery job - PostOp.
+- [ ] Fix fuel system not using vehicle handles, instead using plates.
 
 #### User Interface
 - [x] Introduce new UI on production.
