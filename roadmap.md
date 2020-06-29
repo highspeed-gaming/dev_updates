@@ -20,6 +20,7 @@
   - [ ] Trash collection.
   - [ ] Delivery job - PostOp.
 - [ ] Fix fuel system not using vehicle handles, instead using plates.
+- [ ] Fix data storing of character-specific data going to player instead. Requires some MySQL tweaks and will require a complete wipe of all citation/ticket data.
 
 #### User Interface
 - [x] Introduce new UI on production.
