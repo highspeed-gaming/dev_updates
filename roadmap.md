@@ -24,6 +24,7 @@
 
 #### User Interface
 - [x] Introduce new UI on production.
+- [x] Go back in time and use the old UI.
 
 #### Discord Bot
 - [ ] Save sticky data to a JSON file to retain data between restarts.
